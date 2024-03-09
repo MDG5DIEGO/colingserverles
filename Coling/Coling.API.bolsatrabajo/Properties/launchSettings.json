@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Coling.API.bolsatrabajo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7085",
+      "launchBrowser": false
+    }
+  }
+}
